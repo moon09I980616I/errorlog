@@ -6,4 +6,4 @@ Unable to determine Dialect without JDBC metadata (please set 'jakarta.persisten
 ## error
 Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
 
-해결 방법 : https://catalina.tistory.com/entry/%EA%B0%91%EC%9E%90%EA%B8%B0-MySQL-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EC%95%88%EB%90%A0%EB%95%8C-Failed-to-load-driver-class-commysqlcjjdbcDriver-in-either-of-HikariConfig-class-loader-or-Thread-context-classloader
+해결 방법 : 링크 오타.. spring.datasource.url=jdbc:mysql://localhost:3306/
